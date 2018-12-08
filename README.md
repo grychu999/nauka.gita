@@ -38,3 +38,9 @@ As Kanye West said:
         $.facebox({div:'#foo'})
       }
     }
+
+=======
+Nowa linia kodu
+Kolejna linia
+zas kolejna linia
+test czy dziala
