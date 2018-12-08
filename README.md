@@ -44,3 +44,6 @@ Nowa linia kodu
 Kolejna linia
 zas kolejna linia
 test czy dziala
+
+czy dziala pull
+
