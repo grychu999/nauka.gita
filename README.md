@@ -41,3 +41,4 @@ function fancyAlert(arg) {
       }
     }
 Nowa linia kodu
+Kolejna linia
