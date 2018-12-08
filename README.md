@@ -41,3 +41,6 @@ As Kanye West said:
 Nowa linia kodu
 Kolejna linia
 zas kolejna linia
+test czy dziala
+
+
