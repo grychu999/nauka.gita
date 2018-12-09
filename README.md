@@ -48,3 +48,4 @@ test czy dziala
 czy dziala pull
 
 Dzisiaj jest 09.12.2018 r.
+drugi wpis dzisiaj
